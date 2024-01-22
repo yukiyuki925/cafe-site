@@ -7,7 +7,7 @@ body {
 
 
 header {
-  background: url(../images/interior-view-hotel-restaurant2.jpg) no-repeat center center/cover;
+  background: url(../images/interior-view-hotel-restaurant2.webp) no-repeat center center/cover;
   height: 830px;
 }
 
@@ -424,7 +424,7 @@ footer p {
 @media screen and (max-width:920px) {
 
   header {
-    background: url(../images/interior-view-hotel-restaurant2.jpg) no-repeat center center/cover;
+    background: url(../images/interior-view-hotel-restaurant2.webp) no-repeat center center/cover;
     height: 486px;
   }
 
